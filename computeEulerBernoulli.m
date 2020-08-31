@@ -83,7 +83,7 @@ if plotcurves
   xlabel('x'),ylabel('w')
   subplot(2,2,2)
   plot(x,t)
-  xlabel('x'),ylabel('t')
+  xlabel('x'),ylabel('\theta [rad]')
   subplot(2,2,3)
   plot(x,M)
   xlabel('x'),ylabel('M')
